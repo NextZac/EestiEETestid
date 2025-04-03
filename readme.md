@@ -2,10 +2,10 @@
 
 Peamine fail: cypress/e2e/eestiee.cy.js
 
-**Ülevaade:**
+## **Ülevaade:**
 Kirjeldatud testifail sisaldab Eesti.ee veebilehe põhifunktsionaalsuse testimist, mis hõlmab:
 
-**Avalehe kontrollid:**
+## **Avalehe kontrollid:**
 
 Lehe laadimise õigsus
 
@@ -13,13 +13,13 @@ Otsinguriba kättesaadavus ja funktsionaalsus
 
 Peamenüüde töökorrasolek
 
-**Otsingufunktsionaalsus:**
+## **Otsingufunktsionaalsus:**
 
 Otsingu tulemuste relevantsus ("Eesti hümn")
 
 Tühja otsingu veateade
 
-**Teenuste lehe testid:**
+## **Teenuste lehe testid:**
 
 Navigeerimine "Tervis ja retseptid" sektsiooni
 
@@ -27,17 +27,17 @@ Retseptide lehe laadimine
 
 Terviseportaali lingi avamine uues aknas
 
-**Kontaktvormi testid:**
+## **Kontaktvormi testid:**
 
 Kohustuslike väljade olemasolu
 
 E-posti valideerimise kontroll
 
-**Leitud probleemid:**
+## **Leitud probleemid:**
 
 Kontaktvormi textarea elemendi leidmise probleem (parandatud komponendi spetsiifilise selektori kasutamisega)
 
-**Soovitused:**
+## **Soovitused:**
 
 Lisada testimine mobiilivaates
 
